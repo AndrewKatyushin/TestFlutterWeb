@@ -69527,7 +69527,7 @@ if(b.a===B.hQ){s=a.Z(t.l).f.a
 r=J.avZ(b.gO8().a)
 q=s.gtX(s)
 p=this.a
-return A.pr(B.bW,A.a([A.dS("mediaSize = "+A.d(s.gtX(s))+", scale = "+A.d(1/(r*q))+", snapshot.requireData.value.aspectRatio = "+A.d(J.avZ(b.gO8().a)),o,o,o,o,o,o,o,o,o,o,o,o),p.a.e,A.asO(0,A.Bm(!0,new A.hb(B.eo,o,o,new A.H2(new A.alY(p),o),o),!0))],t.p),B.hg)}else return A.ds(o,o,B.dp,o,o,o,o,o,o)},
+return A.pr(B.bW,A.a([A.dS("mediaSize.aspectRatio = "+A.d(s.gtX(s))+",mediaSize = "+A.d(s.a)+" x "+A.d(s.b)+"scale = "+A.d(1/(r*q))+", snapshot.requireData.value.aspectRatio = "+A.d(J.avZ(b.gO8().a)),o,o,o,o,o,o,o,o,o,o,o,o),p.a.e,A.asO(0,A.Bm(!0,new A.hb(B.eo,o,o,new A.H2(new A.alY(p),o),o),!0))],t.p),B.hg)}else return A.ds(o,o,B.dp,o,o,o,o,o,o)},
 $S:496}
 A.alY.prototype={
 $0(){var s=0,r=A.R(t.H),q=1,p,o=[],n=this,m,l,k,j,i,h
