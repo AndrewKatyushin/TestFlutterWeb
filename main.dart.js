@@ -70387,12 +70387,11 @@ A.amH.prototype={
 $0(){return J.j_($.lR)},
 $S:62}
 A.amJ.prototype={
-$2(a,b){var s,r,q,p,o=null
+$2(a,b){var s,r,q,p=null
 if(b.a===B.hU){s=a.a1(t.l).f.a
-r=J.a0i(b.gw4().a)
-q=s.gne(s)
-p=this.a
-return A.n4(B.by,A.a([A.dS("\n\n\nsnapshot.requireData.value = "+A.d(b.gw4().a.y)+")\nsnapshot.requireData.value.aspectRatio = "+A.d(J.a0i(b.gw4().a))+"\nmediaSize = "+s.i(0)+"\nmediaSize.aspectRatio = "+A.d(s.gne(s))+",\nscale = "+A.d(1/(r*q))+", ",o,o,o,o,o,o,o,o,o,o,o,o),A.a2l(A.aAr(B.hD,new A.Hn(b.gw4(),o),o,1),B.al,new A.VO(s)),p.a.e,A.atA(0,A.BF(!0,new A.hh(B.ep,o,o,new A.Hm(new A.amF(p),o),o),!0))],t.p),B.hh)}else return A.db(o,o,B.dp,o,o,o,o,o,o)},
+r=1/(1/J.a0i(b.gw4().a)*s.gne(s))
+q=this.a
+return A.n4(B.by,A.a([A.dS("\n\n\nsnapshot.requireData.value = "+A.d(b.gw4().a.y)+")\nsnapshot.requireData.value.aspectRatio = "+A.d(J.a0i(b.gw4().a))+"\nmediaSize = "+s.i(0)+"\nmediaSize.aspectRatio = "+A.d(s.gne(s))+",\nscale = "+A.d(r)+", ",p,p,p,p,p,p,p,p,p,p,p,p),A.a2l(A.aAr(B.hD,new A.Hn(b.gw4(),p),p,r),B.al,new A.VO(s)),q.a.e,A.atA(0,A.BF(!0,new A.hh(B.ep,p,p,new A.Hm(new A.amF(q),p),p),!0))],t.p),B.hh)}else return A.db(p,p,B.dp,p,p,p,p,p,p)},
 $S:503}
 A.amF.prototype={
 $0(){var s=0,r=A.O(t.H),q=1,p,o=[],n=this,m,l,k,j,i,h
