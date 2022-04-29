@@ -1,11 +1,11 @@
 {
-    "name": "simple_web_camera_flutter",
-    "short_name": "simple_web_camera_flutter",
+    "name": "onboarding",
+    "short_name": "onboarding",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Onboarding",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
