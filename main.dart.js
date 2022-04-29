@@ -20652,15 +20652,15 @@ alz:function alz(a,b){this.a=a
 this.b=b},
 aLF(a,b){var s,r,q,p,o,n,m,l,k=null,j={}
 j.a=null
-switch(a.a){case"/onboarding/steps":s=j.a=new A.yF(t.Je.a(a.b),k)
+switch(a.a){case"/onboarding/steps":j.a=new A.yF(t.Je.a(a.b),k)
 break
-case"/onboarding/take_document_photo":s=j.a=new A.yG(t.Ke.a(a.b),k)
+case"/onboarding/take_document_photo":j.a=new A.yG(t.Ke.a(a.b),k)
 break
-case"/onboarding/verify_document_photo":s=j.a=new A.Px(t.SX.a(a.b),k)
+case"/onboarding/verify_document_photo":j.a=new A.Px(t.SX.a(a.b),k)
 break
-case"/onboarding/done":s=j.a=new A.M2(k)
-break
-default:s=k}if(s!=null){s=A.a([],t.Zt)
+case"/onboarding/done":j.a=new A.M2(k)
+break}switch(b.a){case 1:return A.atW(new A.anF(j),a,t.z)
+default:s=A.a([],t.Zt)
 r=$.M
 q=t.LR
 p=t.zh
@@ -20668,7 +20668,7 @@ o=A.N3(B.cq)
 n=A.a([],t.wi)
 m=A.as(0,k,!1,t.Z)
 l=$.M
-return new A.wf(new A.anF(j),k,!1,k,s,new A.bD(k,t.Ts),new A.bD(k,t.C),new A.yL(),k,new A.aE(new A.Z(r,q),p),o,n,a,new A.eO(k,m),new A.aE(new A.Z(l,q),p),t.EY)}else return A.atW(new A.anG(j),a,t.z)},
+return new A.wf(new A.anG(j),k,!1,k,s,new A.bD(k,t.Ts),new A.bD(k,t.C),new A.yL(),k,new A.aE(new A.Z(r,q),p),o,n,a,new A.eO(k,m),new A.aE(new A.Z(l,q),p),t.EY)}},
 anF:function anF(a){this.a=a},
 anG:function anG(a){this.a=a},
 axo(a){if(t.Xu.b(a))return a
