@@ -1,11 +1,11 @@
 {
-    "name": "onboarding",
-    "short_name": "onboarding",
+    "name": "test_open_whatsapp",
+    "short_name": "test_open_whatsapp",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Onboarding",
+    "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
