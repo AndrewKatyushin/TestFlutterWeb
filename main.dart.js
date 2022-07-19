@@ -82496,7 +82496,7 @@ N(a,b){var s,r,q=this,p=null
 q.a.toString
 s=A.cJ("Flutter Demo Home Page",p,p,p,p)
 r=A.cJ(""+q.d,p,A.aE(b).an.e,p,p)
-return A.aAT(new A.ya(s,new A.Vz(p,p,1/0,56),p),A.fe(A.is(A.a([B.aNn,r,new A.LJ(new A.bE(p,t.A),'<a href="https://api.whatsapp.com/send?text=sdsd" class="bla">Whatsapp link</a>',p),A.aMk(A.cJ("Tap on me",p,p,p,p),new A.anj(q),p)],t.p),B.V,B.hl,B.aj,B.b9),p,p),A.az1(B.aho,!1,q.ga5n(),"Increment"),p)}}
+return A.aAT(new A.ya(s,new A.Vz(p,p,1/0,56),p),A.fe(A.is(A.a([B.aNn,r,new A.LJ(new A.bE(p,t.A),'<a href="https://api.whatsapp.com/" class="bla">Whatsapp link</a>',p),A.aMk(A.cJ("Tap on me",p,p,p,p),new A.anj(q),p)],t.p),B.V,B.hl,B.aj,B.b9),p,p),A.az1(B.aho,!1,q.ga5n(),"Increment"),p)}}
 A.ani.prototype={
 $0(){++this.a.d},
 $S:0}
@@ -82504,7 +82504,7 @@ A.anj.prototype={
 $0(){var s=0,r=A.X(t.H),q=this
 var $async$$0=A.Y(function(a,b){if(a===1)return A.U(b,r)
 while(true)switch(s){case 0:s=2
-return A.ab(q.a.yl(0,"https://api.whatsapp.com/send?text=sdsd"),$async$$0)
+return A.ab(q.a.yl(0,"https://api.whatsapp.com/"),$async$$0)
 case 2:return A.V(null,r)}})
 return A.W($async$$0,r)},
 $S:22}
