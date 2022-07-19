@@ -43283,7 +43283,7 @@ $0(){var s=0,r=A.a6(t.H),q=this,p
 var $async$$0=A.a7(function(a,b){if(a===1)return A.a3(b,r)
 while(true)switch(s){case 0:p=q.a
 s=4
-return A.al(p.kJ(0,"whatsapp://"),$async$$0)
+return A.al(p.kJ(0,"whatsapp://send?text=asds"),$async$$0)
 case 4:s=!b?2:3
 break
 case 2:s=5
